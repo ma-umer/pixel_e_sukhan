@@ -1,4 +1,6 @@
-# 📜 Pixel-e-Sukhan
+![Pixel-e-Sukhan Banner](./banner.png)
+
+# Pixel-e-Sukhan 📜
 
 ### Bringing Urdu literature to your desktop, one pixel at a time.
 
