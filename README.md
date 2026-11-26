@@ -1,4 +1,5 @@
-![Pixel-e-Sukhan Banner](./banner.png)
+![Pixel-e-Sukhan Banner](./tanhai_me_chain_na_aye_640x320.png)
+
 
 # Pixel-e-Sukhan 📜
 
